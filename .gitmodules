@@ -1,0 +1,72 @@
+[submodule "paradox"]
+	path = paradox
+	url = git@github.com:mlr-org/paradox
+[submodule "mlr3misc"]
+	path = mlr3misc
+	url = git@github.com:mlr-org/mlr3misc
+[submodule "mlr3"]
+	path = mlr3
+	url = git@github.com:mlr-org/mlr3
+[submodule "bbotk"]
+	path = bbotk
+	url = git@github.com:mlr-org/bbotk
+[submodule "mlr3batchmark"]
+	path = mlr3batchmark
+	url = git@github.com:mlr-org/mlr3batchmark
+[submodule "mlr3book"]
+	path = mlr3book
+	url = git@github.com:mlr-org/mlr3book
+[submodule "mlr3cluster"]
+	path = mlr3cluster
+	url = git@github.com:mlr-org/mlr3cluster
+[submodule "mlr3data"]
+	path = mlr3data
+	url = git@github.com:mlr-org/mlr3data
+[submodule "mlr3db"]
+	path = mlr3db
+	url = git@github.com:mlr-org/mlr3db
+[submodule "mlr3filters"]
+	path = mlr3filters
+	url = git@github.com:mlr-org/mlr3filters
+[submodule "mlr3fselect"]
+	path = mlr3fselect
+	url = git@github.com:mlr-org/mlr3fselect
+[submodule "mlr3gallery"]
+	path = mlr3gallery
+	url = git@github.com:mlr-org/mlr3gallery
+[submodule "mlr3hyperband"]
+	path = mlr3hyperband
+	url = git@github.com:mlr-org/mlr3hyperband
+[submodule "mlr3keras"]
+	path = mlr3keras
+	url = git@github.com:mlr-org/mlr3keras
+[submodule "mlr3learners"]
+	path = mlr3learners
+	url = git@github.com:mlr-org/mlr3learners
+[submodule "mlr3mbo"]
+	path = mlr3mbo
+	url = git@github.com:mlr-org/mlr3mbo
+[submodule "mlr3measures"]
+	path = mlr3measures
+	url = git@github.com:mlr-org/mlr3measures
+[submodule "mlr3oml"]
+	path = mlr3oml
+	url = git@github.com:mlr-org/mlr3oml
+[submodule "mlr3pipelines"]
+	path = mlr3pipelines
+	url = git@github.com:mlr-org/mlr3pipelines
+[submodule "mlr3proba"]
+	path = mlr3proba
+	url = git@github.com:mlr-org/mlr3proba
+[submodule "mlr3tuning"]
+	path = mlr3tuning
+	url = git@github.com:mlr-org/mlr3tuning
+[submodule "mlr3spatiotempcv"]
+	path = mlr3spatiotempcv
+	url = git@github.com:mlr-org/mlr3spatiotempcv
+[submodule "mlr3verse"]
+	path = mlr3verse
+	url = git@github.com:mlr-org/mlr3verse
+[submodule "mlr3viz"]
+	path = mlr3viz
+	url = git@github.com:mlr-org/mlr3viz
